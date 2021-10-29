@@ -2,9 +2,9 @@
 
 This is the project repo for the PID project of the Udacity Self-Driving Car Nanodegree. Here are some outputs of the project:
 
-![output1](./outputs/output1.gif)
-![output2](./outputs/output2.gif)
-![output3](./outputs/output3.gif)
+![output1](./output/output1.gif)
+![output2](./output/output2.gif)
+![output3](./output/output3.gif)
 
 
 # PID Controller
