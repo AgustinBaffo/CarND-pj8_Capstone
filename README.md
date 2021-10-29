@@ -1,4 +1,4 @@
-# CarND-Controls-PID
+# CarND - PID Controller
 
 Udacity Self-Driving Car Engineer - Project8: PID Controller
 
